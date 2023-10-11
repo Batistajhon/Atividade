@@ -1,0 +1,14 @@
+C:\Users\jonat\OneDrive\Documentos\projeto Senai\Atividade\bin\Debug\net7.0\Atividade.exe
+C:\Users\jonat\OneDrive\Documentos\projeto Senai\Atividade\bin\Debug\net7.0\Atividade.deps.json
+C:\Users\jonat\OneDrive\Documentos\projeto Senai\Atividade\bin\Debug\net7.0\Atividade.runtimeconfig.json
+C:\Users\jonat\OneDrive\Documentos\projeto Senai\Atividade\bin\Debug\net7.0\Atividade.dll
+C:\Users\jonat\OneDrive\Documentos\projeto Senai\Atividade\bin\Debug\net7.0\Atividade.pdb
+C:\Users\jonat\OneDrive\Documentos\projeto Senai\Atividade\obj\Debug\net7.0\Atividade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jonat\OneDrive\Documentos\projeto Senai\Atividade\obj\Debug\net7.0\Atividade.AssemblyInfoInputs.cache
+C:\Users\jonat\OneDrive\Documentos\projeto Senai\Atividade\obj\Debug\net7.0\Atividade.AssemblyInfo.cs
+C:\Users\jonat\OneDrive\Documentos\projeto Senai\Atividade\obj\Debug\net7.0\Atividade.csproj.CoreCompileInputs.cache
+C:\Users\jonat\OneDrive\Documentos\projeto Senai\Atividade\obj\Debug\net7.0\Atividade.dll
+C:\Users\jonat\OneDrive\Documentos\projeto Senai\Atividade\obj\Debug\net7.0\refint\Atividade.dll
+C:\Users\jonat\OneDrive\Documentos\projeto Senai\Atividade\obj\Debug\net7.0\Atividade.pdb
+C:\Users\jonat\OneDrive\Documentos\projeto Senai\Atividade\obj\Debug\net7.0\Atividade.genruntimeconfig.cache
+C:\Users\jonat\OneDrive\Documentos\projeto Senai\Atividade\obj\Debug\net7.0\ref\Atividade.dll
